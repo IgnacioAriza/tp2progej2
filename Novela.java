@@ -1,10 +1,3 @@
-
-
-/**
- * @author Ignacio
- * @version 1.0
- * @created 15-Apr-2024 5:16:25 PM
- */
 public class Novela extends Libro {
 
 	private String genero;

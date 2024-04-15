@@ -13,10 +13,6 @@ public class Biblioteca extends Libro {
 		super.finalize();
 	}
 
-	/**
-	 * 
-	 * @param libro
-	 */
 	public void agregarLibro(Libro libro){
 		arrayLibros[cantidadLibros] = libro;
 		cantidadLibros ++;
